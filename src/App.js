@@ -35,7 +35,7 @@ export default function App() {
       <Container>
         <h2 className="text-center">Lets note it down!</h2>
         <Form>
-          <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
+          <Form.Group className="mb-3">
             <Form.Control
               type="text"
               placeholder="Enter note..."
